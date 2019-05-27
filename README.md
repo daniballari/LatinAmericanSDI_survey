@@ -4,6 +4,7 @@ Survey about the adoption of technological trends in the context of Spatial Data
 <b>SDI trends in Latin America</b>
 
 <b>Contact</b>
+
 Instituto Politecnico Nacional, Ciudad de Mexico (Mexico) - Luis M. Vilches-Blazquez - lmvilches@cic.ipn.mx
 Universidad del Azuay, Cuenca (Ecuador) - Daniela Ballari - dballari@uazuay.edu.ec
 
